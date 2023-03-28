@@ -1,4 +1,4 @@
-name: /home/rbetanzos/enviroments/SSDockTools
+name: SSDockTools
 channels:
   - conda-forge
   - ambermd
